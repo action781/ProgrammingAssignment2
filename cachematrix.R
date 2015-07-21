@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## These functions, makeCachematrix and cacheSolve, are useful for storing an inverse
 ## matrix outside of the current environment and being able to recall it.
 
@@ -36,3 +37,5 @@ cacheSolve <- function(x, ...) {
         x$setinverse(m)
         m
 }
+
+>>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
